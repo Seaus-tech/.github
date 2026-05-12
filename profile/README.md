@@ -6,12 +6,9 @@
   
   | Project | Description |
   |---|---|
-  | [Aurora Shell](https://github.com/Seaus-tech/Aurora-Shell) | A macOS terminal app with AI integration and a custom
-  shell theme |
-  | [FreeUp](https://github.com/Seaus-tech/FreeUp) | A macOS disk cleaner — scans for junk files and frees up storage
-  with one click |
-  | [Calculator App](https://github.com/Seaus-tech/Calculator-App) | Python calculator with expression parsing,
-  fractions, and word problems |
+  | [Aurora Shell](https://github.com/Seaus-tech/Aurora-Shell) | A macOS terminal app with AI integration and a custom shell theme |
+  | [FreeUp](https://github.com/Seaus-tech/FreeUp) | A macOS disk cleaner — scans for junk files and frees up storage with one click |
+  | [Calculator App](https://github.com/Seaus-tech/Calculator-App) | Python calculator with expression parsing, fractions, and word problems |
   
   ## About
   
