@@ -1,6 +1,6 @@
 # Seaus Tech
   
-  We build developer tools and productivity apps for macOS and the terminal.
+  We build developer tools and productivity apps for OS and the terminal.
   
   ## Projects
   
