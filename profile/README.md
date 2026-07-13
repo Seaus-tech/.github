@@ -1,4 +1,4 @@
-# Seaus Tech
+# Seaus
   
   We build developer tools and productivity apps for OS and the terminal.
   
