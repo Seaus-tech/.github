@@ -1,14 +1,17 @@
-# Seaus Tech
+# 🌊 Seaus Tech
 
-<p align="center">
+<p align="center>
   <img src="../Icon.png" alt="Seaus Tech Logo" width="180" style="border-radius: 24px;" />
 </p>
 
-<p align="center">
+<p align="center>
   <strong>Crafting premium developer utilities, cross-platform apps, and hyper-optimized systems.</strong>
 </p>
 
-<p align="center">
+<p align="center>
+  <a href="https://github.com/Seaus-tech">
+    <img src="https://img.shields.io/badge/GitHub-Seaus--tech-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white" alt="Swift" />
   <img src="https://img.shields.io/badge/C99-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white" alt="Zig" />
@@ -59,12 +62,30 @@ Seaus Tech is an independent software engineering studio. We build clean, highly
 
 ## ⚡ Core Tech Focus
 
-- **Apple Ecosystem:** SwiftUI, SpriteKit, CoreBluetooth, Swift Concurrency, Catalyst, and Multiplatform (iOS, macOS, watchOS, tvOS, visionOS).
-- **System Languages & WASM:** C99, Zig, and Rust with Sokol/WebAssembly deployment.
-- **Web & Cloud Workers:** React, Tauri, TypeScript, Cloudflare Workers, Node.js WebSockets, and serverless architectures.
+- **Apple Ecosystem** — SwiftUI, SpriteKit, CoreBluetooth, Swift Concurrency, Catalyst, and Multiplatform (iOS, macOS, watchOS, tvOS, visionOS)
+- **System Languages & WASM** — C99, Zig, and Rust with Sokol/WebAssembly deployment
+- **Web & Cloud Workers** — React, Tauri, TypeScript, Cloudflare Workers, Node.js WebSockets, and serverless architectures
 
 ---
 
-<p align="center">
+## 🔗 Connect With Us
+
+- 🌐 **Website**: [seaus.tech](https://seaus.tech)
+- 🐦 **Twitter**: [@SeausTech](https://twitter.com/SeausTech)
+- 📧 **Contact**: hello@seaus.tech
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center>
+  <a href="https://github.com/Seaus-tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=Seaus-tech&show_icons=true&theme=radical" alt="Seaus Tech Stats" />
+  </a>
+</p>
+
+---
+
+<p align="center>
   <sub>© 2026 Seaus Tech. All rights reserved.</sub>
 </p>
