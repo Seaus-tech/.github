@@ -1,14 +1,14 @@
 # 🌊 Seaus Tech
 
-<p align="center>
+<p align="center">
   <img src="../Icon.png" alt="Seaus Tech Logo" width="180" style="border-radius: 24px;" />
 </p>
 
-<p align="center>
+<p align="center">
   <strong>Crafting premium developer utilities, cross-platform apps, and hyper-optimized systems.</strong>
 </p>
 
-<p align="center>
+<p align="center">
   <a href="https://github.com/Seaus-tech">
     <img src="https://img.shields.io/badge/GitHub-Seaus--tech-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
@@ -78,7 +78,7 @@ Seaus Tech is an independent software engineering studio. We build clean, highly
 
 ## 📊 GitHub Stats
 
-<p align="center>
+<p align="center">
   <a href="https://github.com/Seaus-tech">
     <img src="https://github-readme-stats.vercel.app/api?username=Seaus-tech&show_icons=true&theme=radical" alt="Seaus Tech Stats" />
   </a>
@@ -86,6 +86,6 @@ Seaus Tech is an independent software engineering studio. We build clean, highly
 
 ---
 
-<p align="center>
+<p align="center">
   <sub>© 2026 Seaus Tech. All rights reserved.</sub>
 </p>
