@@ -1,4 +1,4 @@
-# 🌊 Seaus Tech
+# Seaus Tech
 
 <p align="center">
   <img src="../Icon.png" alt="Seaus Tech Logo" width="180" style="border-radius: 24px;" />
